@@ -26,7 +26,7 @@ idna==2.10
 importlib-metadata==2.1.1
 install==1.3.4
 kombu==5.1.0
-lxml==4.6.5
+lxml==4.9.1
 MarkupPy==1.14
 odfpy==1.4.1
 openpyxl==3.0.7
